@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 Hey there, I'm Birunthaban!<br><br>🔭 Passionate Machine Learning practitioner with expertise in Python, data-driven problem solving, and end-to-end model development. Experienced in building and deploying scalable ML solutions and full-stack applications, with a strong foundation in clean architecture and software engineering best practices..<br>🌱 Expanding my skillset by learning **game development with C++**.<br>🚀 Passionate about creating seamless digital experiences and bringing ideas to life through code.<br>🎮 Always eager to explore new technologies, from **AI** to **gamedev** and beyond!<br><br>Feel free to connect or check out my repositories below!
+🌍 Hey there, I'm Birunthaban!<br><br>🔭 Passionate Machine Learning practitioner with expertise in Python, data-driven problem solving, and end-to-end model development.<br>🌱 Experienced in building and deploying scalable ML solutions and full-stack applications, with a strong foundation in clean architecture and software engineering best practices.<br>🚀 Passionate about creating seamless digital experiences and bringing ideas to life through code.<br>🎮 Always eager to explore new technologies, from **AI** to **gamedev** and beyond!<br><br>Feel free to connect or check out my repositories below!
 
 
 ## 🌐 Socials:
